@@ -1,0 +1,7 @@
+# Build output
+*.o
+*.out
+inverted_search
+
+# Editor settings
+.vscode/
